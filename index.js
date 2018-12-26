@@ -29,5 +29,5 @@ return ['Arnold', ...kittens]
 }
 
 function removeLastKitten() {
-return 
+return []
 }
